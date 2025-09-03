@@ -56,3 +56,7 @@ This dashboard enhances decision-making by:
 - Enhance predictive modeling for task timelines.
 - Integrate automated anomaly detection for request delays.
 
+## Hackathon Result
+
+4th place at the Denver International Airport Hackathon organised by Data Science Student Association (DaSSA) 2024.
+
