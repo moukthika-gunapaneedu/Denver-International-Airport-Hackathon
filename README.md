@@ -1,7 +1,6 @@
 # Denver-International-Airport-Hackathon
 ## Overview
-This project delivers an **interactive Power BI dashboard** that connects **ServiceNow enhancement requests** with **Azure DevOps (ADO) features** to give customers and internal teams a single, clear view of status, progress, and developer allocation.  
-Missing values were predicted using **dspy**, and long descriptions were **summarized with NLP** for faster decision-making.
+This project delivers an **interactive Power BI dashboard** that connects **ServiceNow enhancement requests** with **Azure DevOps (ADO) features** to give customers and internal teams a single, clear view of status, progress, and developer allocation. Missing values were predicted using **dspy**, and long descriptions were **summarized with NLP** for faster decision-making.
 
 ---
 
